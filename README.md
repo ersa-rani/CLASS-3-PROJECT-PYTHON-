@@ -78,3 +78,23 @@ frozen_numbers = frozenset({10, 20, 30, 40})
 print(frozen_numbers)  # frozenset({10, 20, 30, 40})
 
 
+
+🚀 How to Use
+Clone the repository:
+bash
+Copy
+Edit
+git clone https://github.com/ersa-rani/python-lessons.git
+Navigate to the project folder:
+bash
+Copy
+Edit
+cd python-lessons
+Run Python scripts:
+bash
+Copy
+Edit
+python lesson05.py  # Replace with the script you want to run
+📌 Author
+👤 ersa rani
+📧 ersarani955@gmail.com
